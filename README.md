@@ -10,7 +10,7 @@ Una libreria di funzioni utili per la gestione dei dati in c++:
 <br/>Fattoriale ricorsivo
 <br/>Fattoriale iterativo
 <br/>Stampa di un valore N di tipo M
-<br>Stampa si un vector<int>
+<br>Stampa di un vector\<int\>
 <br/>Inversione di una stringa
 <br/>Conversione da decimale a intero (dectobin con stringhe)
 <br/>Quicksort

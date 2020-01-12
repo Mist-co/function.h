@@ -14,7 +14,7 @@ Una libreria di funzioni utili per la gestione dei dati in c++:
 <br/>Inversione di una stringa
 <br/>Conversione da decimale a intero (dectobin con stringhe)
 <br/>Quicksort
-<br/>Selectsprt
+<br/>Selectsort
 <br/>Bubblesort
 <br/>Insertionsort
 <br/>A breve: Mergesort
